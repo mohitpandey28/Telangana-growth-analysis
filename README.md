@@ -1,5 +1,8 @@
 # Telangana-growth-analysis
 
+## Dashboard Link : https://app.powerbi.com/view?r=eyJrIjoiNWY1NTI3OTMtODc1OS00YjE3LTgwNGQtNDZhZDQ3MDBjOWE4IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
+
+
 ### About Telangana
 
 Telangana is India's youngest state, formed in 2014. capital city is Hyderabad, is a global IT hub with famous landmarks like the Charminar.
